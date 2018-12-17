@@ -19,7 +19,7 @@ La France est une République indivisible, laïque, démocratique et sociale. El
 
 La loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales.
 
-Titre premier : De la souveraineté
+## Titre premier : De la souveraineté
 
 ### Article 2 En savoir plus sur cet article...
 
