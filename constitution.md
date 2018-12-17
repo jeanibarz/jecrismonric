@@ -1,9 +1,9 @@
-#H1 Constitution du 4 octobre 1958
+﻿# Constitution du 4 octobre 1958
 Version consolidée au 13 décembre 2018
 
 Le Gouvernement de la République, conformément à la loi constitutioonnelle du 3 juin 1958, a proposé, Le Peuple français a adopté, Le Président de la République promulgue la loi constitutionnelle dont la teneur suit :
 
-#H3 Article PREAMBULE En savoir plus sur cet article...
+### Article PREAMBULE En savoir plus sur cet article...
 
 Modifié par Loi constitutionnelle n°2005-205 du 1 mars 2005 - art. 1 
 
@@ -11,7 +11,7 @@ Le Peuple français proclame solennellement son attachement aux Droits de l'Homm
 
 En vertu de ces principes et de celui de la libre détermination des peuples, la République offre aux territoires d'outre-mer qui manifestent la volonté d'y adhérer des institutions nouvelles fondées sur l'idéal commun de liberté, d'égalité et de fraternité et conçues en vue de leur évolution démocratique.
 
-#H3 Article 1 En savoir plus sur cet article...
+### Article 1 En savoir plus sur cet article...
 
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet ... - art. 1 
 
@@ -21,7 +21,7 @@ La loi favorise l'égal accès des femmes et des hommes aux mandats électoraux 
 
 Titre premier : De la souveraineté
 
-#H3 Article 2 En savoir plus sur cet article...
+### Article 2 En savoir plus sur cet article...
 
 Modifié par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 8 
 
@@ -31,7 +31,7 @@ L'hymne national est la "Marseillaise".
 La devise de la République est "Liberté, Egalité, Fraternité".
 Son principe est : gouvernement du peuple, par le peuple et pour le peuple.
 
-#H3 Article 3 En savoir plus sur cet article...
+### Article 3 En savoir plus sur cet article...
 
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet ... - art. 1 
 
@@ -40,7 +40,7 @@ Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice.
 Le suffrage peut être direct ou indirect dans les conditions prévues par la Constitution. Il est toujours universel, égal et secret.
 Sont électeurs, dans les conditions déterminées par la loi, tous les nationaux français majeurs des deux sexes, jouissant de leurs droits civils et politiques.
 
-#H3 Article 4 En savoir plus sur cet article...
+### Article 4 En savoir plus sur cet article...
 
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet ... - art. 2 
 Les partis et groupements politiques concourent à l'expression du suffrage. Ils se forment et exercent leur activité librement. Ils doivent respecter les principes de la souveraineté nationale et de la démocratie.
@@ -48,22 +48,22 @@ Ils contribuent à la mise en œuvre du principe énoncé au second alinéa de l
 La loi garantit les expressions pluralistes des opinions et la participation équitable des partis et groupements politiques à la vie démocratique de la Nation.
 
 
-#H2 Titre II : Le Président de la République
+## Titre II : Le Président de la République
 
-#H3 Article 5 En savoir plus sur cet article...
+### Article 5 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 9 
 
 Le Président de la République veille au respect de la Constitution. Il assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics ainsi que la continuité de l'Etat.
 Il est le garant de l'indépendance nationale, de l'intégrité du territoire et du respect des traités.
 
-#H3 Article 6 En savoir plus sur cet article...
+### Article 6 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 3 
 
 Le Président de la République est élu pour cinq ans au suffrage universel direct.
 Nul ne peut exercer plus de deux mandats consécutifs.
 Les modalités d'application du présent article sont fixées par une loi organique.
 
-#H3 Article 7 En savoir plus sur cet article...
+### Article 7 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°2003-276 du 28 mars 2003 - art. 12 
 
 Le Président de la République est élu à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au premier tour du scrutin, il est procédé, le quatorzième jour suivant, à un second tour. Seuls peuvent s'y présenter les deux candidats qui, le cas échéant après retrait de candidats plus favorisés, se trouvent avoir recueilli le plus grand nombre de suffrages au premier tour.
@@ -81,16 +81,16 @@ Article 8 En savoir plus sur cet article...
 Le Président de la République nomme le Premier Ministre. Il met fin à ses fonctions sur la présentation par celui-ci de la démission du Gouvernement.
 Sur la proposition du Premier ministre, il nomme les autres membres du Gouvernement et met fin à leurs fonctions.
 
-#H3 Article 9
+### Article 9
 
 Le Président de la République préside le conseil des ministres.
 
-#H3 Article 10
+### Article 10
 
 Le Président de la République promulgue les lois dans les quinze jours qui suivent la transmission au Gouvernement de la loi définitivement adoptée.
 Il peut, avant l'expiration de ce délai, demander au Parlement une nouvelle délibération de la loi ou de certains de ses articles. Cette nouvelle délibération ne peut être refusée.
 
-#H3 Article 11 En savoir plus sur cet article...
+### Article 11 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 4 
 
 Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux assemblées, publiées au Journal officiel, peut soumettre au référendum tout projet de loi portant sur l'organisation des pouvoirs publics, sur des réformes relatives à la politique économique, sociale ou environnementale de la nation et aux services publics qui y concourent, ou tendant à autoriser la ratification d'un traité qui, sans être contraire à la Constitution, aurait des incidences sur le fonctionnement des institutions.
@@ -105,7 +105,7 @@ NOTA : 
 Loi constitutionnelle n° 2008-724 du 23 juillet 2008 article 46 I : Les articles 11, 13, le dernier alinéa de l'article 25, les articles 34-1, 39, 44, 56, 61-1, 65, 69, 71-1 et 73 de la Constitution, dans leur rédaction résultant de la présente loi constitutionnelle, entrent en vigueur dans les conditions fixées par les lois et lois organiques nécessaires à leur application.
 La loi organique n°2013-1114 du 6 décembre 2013 portant application de l’article 11 de la Constitution et prévue à l’article 46-I de la loi constitutionnelle n° 2008-724 du 23 juillet 2008, entrera en vigueur le 1er janvier 2015 en vertu de son article 10 disposant que : " La présente loi organique entre en vigueur le premier jour du treizième mois suivant celui de sa promulgation."
 
-#H3 Article 12 En savoir plus sur cet article...
+### Article 12 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 3 
 
 Le Président de la République peut, après consultation du Premier ministre et des Présidents des Assemblées, prononcer la dissolution de l'Assemblée nationale.
@@ -113,7 +113,7 @@ Les élections générales ont lieu vingt jours au moins et quarante jours au pl
 L'Assemblée nationale se réunit de plein droit le deuxième jeudi qui suit son élection. Si cette réunion a lieu en dehors de la période prévue pour la session ordinaire, une session est ouverte de droit pour une durée de quinze jours.
 Il ne peut être procédé à une nouvelle dissolution dans l'année qui suit ces élections.
 
-#H3 Article 13 En savoir plus sur cet article...
+### Article 13 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°2003-276 du 28 mars 2003 - art. 12 
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 5 
 
@@ -123,15 +123,15 @@ Les conseillers d'Etat, le grand chancelier de la Légion d'honneur, les ambassa
 Une loi organique détermine les autres emplois auxquels il est pourvu en conseil des ministres ainsi que les conditions dans lesquelles le pouvoir de nomination du Président de la République peut être par lui délégué pour être exercé en son nom.
 Une loi organique détermine les emplois ou fonctions, autres que ceux mentionnés au troisième alinéa, pour lesquels, en raison de leur importance pour la garantie des droits et libertés ou la vie économique et sociale de la Nation, le pouvoir de nomination du Président de la République s'exerce après avis public de la commission permanente compétente de chaque assemblée. Le Président de la République ne peut procéder à une nomination lorsque l'addition des votes négatifs dans chaque commission représente au moins trois cinquièmes des suffrages exprimés au sein des deux commissions. La loi détermine les commissions permanentes compétentes selon les emplois ou fonctions concernés. 
 
-#H3 Article 14
+### Article 14
 
 Le Président de la République accrédite les ambassadeurs et les envoyés extraordinaires auprès des puissances étrangères ; les ambassadeurs et les envoyés extraordinaires étrangers sont accrédités auprès de lui.
 
-#H3 Article 15 En savoir plus sur cet article...
+### Article 15 En savoir plus sur cet article...
 
 Le Président de la République est le chef des armées. Il préside les conseils et comités supérieurs de la Défense nationale.
 
-#H3 Article 16 En savoir plus sur cet article...
+### Article 16 En savoir plus sur cet article...
 
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 6 
 Lorsque les institutions de la République, l'indépendance de la Nation, l'intégrité de son territoire ou l'exécution de ses engagements internationaux sont menacés (1) d'une manière grave et immédiate et que le fonctionnement régulier des pouvoirs publics constitutionnels est interrompu, le Président de la République prend les mesures exigées par ces circonstances, après consultation officielle du Premier ministre, des Présidents des Assemblées ainsi que du Conseil constitutionnel.
@@ -144,48 +144,48 @@ Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil constituti
 NOTA : 
 (1) : Cet article fut originellement publié avec une faute d'orthographe. Le terme " menacés " devrait en effet s'écrire " menacées ".
 
-#H3 Article 17 En savoir plus sur cet article...
+### Article 17 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 7 
 
 Le Président de la République a le droit de faire grâce à titre individuel.
 
-#H3 Article 18 En savoir plus sur cet article...
+### Article 18 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 8 
 
 Le Président de la République communique avec les deux Assemblées du Parlement par des messages qu'il fait lire et qui ne donnent lieu à aucun débat.
 Il peut prendre la parole devant le Parlement réuni à cet effet en Congrès. Sa déclaration peut donner lieu, hors sa présence, à un débat qui ne fait l'objet d'aucun vote.
 Hors session, les assemblées parlementaires sont réunies spécialement à cet effet.
 
-#H3 Article 19
+### Article 19
 
 Les actes du Président de la République autres que ceux prévus aux articles 8 (1er alinéa), 11, 12, 16, 18, 54, 56 et 61 sont contresignés par le Premier ministre et, le cas échéant, par les ministres responsables.
 
 
-#H2 Titre III : Le Gouvernement
+## Titre III : Le Gouvernement
 
-#H3 Article 20 En savoir plus sur cet article...
+### Article 20 En savoir plus sur cet article...
 
 Le Gouvernement détermine et conduit la politique de la Nation.
 Il dispose de l'administration et de la force armée.
 Il est responsable devant le Parlement dans les conditions et suivant les procédures prévues aux articles 49 et 50.
 
-#H3 Article 21 En savoir plus sur cet article...
+### Article 21 En savoir plus sur cet article...
 Le Premier ministre dirige l'action du Gouvernement. Il est responsable de la Défense nationale. Il assure l'exécution des lois. Sous réserve des dispositions de l'article 13, il exerce le pouvoir réglementaire et nomme aux emplois civils et militaires.
 Il peut déléguer certains de ses pouvoirs aux ministres.
 Il supplée, le cas échéant, le Président de la République dans la présidence des conseils et comités prévus à l'article 15.
 Il peut, à titre exceptionnel, le suppléer pour la présidence d'un Conseil des ministres en vertu d'une délégation expresse et pour un ordre du jour déterminé.
 
-#H3 Article 22
+### Article 22
 Les actes du Premier ministre sont contresignés, le cas échéant, par les ministres chargés de leur exécution.
 
-#H3 Article 23 En savoir plus sur cet article...
+### Article 23 En savoir plus sur cet article...
 Les fonctions de membre du Gouvernement sont incompatibles avec l'exercice de tout mandat parlementaire, de toute fonction de représentation professionnelle à caractère national et de tout emploi public ou de toute activité professionnelle.
 Une loi organique fixe les conditions dans lesquelles il est pourvu au remplacement des titulaires de tels mandats, fonctions ou emplois.
 Le remplacement des membres du Parlement a lieu conformément aux dispositions de l'article 25.
 
-#H2 Titre IV : Le Parlement
+## Titre IV : Le Parlement
 
-#H3 Article 24 En savoir plus sur cet article...
+### Article 24 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 9 
 Le Parlement vote la loi. Il contrôle l'action du Gouvernement. Il évalue les politiques publiques. 
 
@@ -197,7 +197,7 @@ Le Sénat, dont le nombre de membres ne peut excéder trois cent quarante-huit, 
 
 Les Français établis hors de France sont représentés à l'Assemblée nationale et au Sénat.
 
-#H3 Article 25 En savoir plus sur cet article...
+### Article 25 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 10 
 Une loi organique fixe la durée des pouvoirs de chaque assemblée, le nombre de ses membres, leur indemnité, les conditions d'éligibilité, le régime des inéligibilités et des incompatibilités.
 Elle fixe également les conditions dans lesquelles sont élues les personnes appelées à assurer, en cas de vacance du siège, le remplacement des députés ou des sénateurs jusqu'au renouvellement général ou partiel de l'assemblée à laquelle ils appartenaient ou leur remplacement temporaire en cas d'acceptation par eux de fonctions gouvernementales.
@@ -205,7 +205,7 @@ Une commission indépendante, dont la loi fixe la composition et les règles d'o
 NOTA : 
 Les dispositions de l'article 25 de la Constitution relatives au caractère temporaire du remplacement des députés et sénateurs acceptant des fonctions gouvernementales, dans leur rédaction résultant de la présente loi constitutionnelle, s'appliquent aux députés et sénateurs ayant accepté de telles fonctions antérieurement à la date d'entrée en vigueur de la loi organique prévue à cet article si, à cette même date, ils exercent encore ces fonctions et que le mandat parlementaire pour lequel ils avaient été élus n'est pas encore expiré.
 
-#H3 Article 26 En savoir plus sur cet article...
+### Article 26 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 7 
 
 Aucun membre du Parlement ne peut être poursuivi, recherché arrêté, détenu ou jugé à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.
@@ -213,13 +213,13 @@ Aucun membre du Parlement ne peut faire l'objet, en matière criminelle ou corre
 La détention, les mesures privatives ou restrictives de liberté ou la poursuite d'un membre du Parlement sont suspendues pour la durée de la session si l'assemblée dont il fait partie le requiert.
 L'assemblée intéressée est réunie de plein droit pour des séances supplémentaires pour permettre, le cas échéant, l'application de l'alinéa ci-dessus.
 
-#H3 Article 27
+### Article 27
 
 Tout mandat impératif est nul.
 Le droit de vote des membres du Parlement est personnel.
 La loi organique peut autoriser exceptionnellement la délégation de vote. Dans ce cas, nul ne peut recevoir délégation de plus d'un mandat.
 
-#H3 Article 28 En savoir plus sur cet article...
+### Article 28 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 2 
 
 Le Parlement se réunit de plein droit en une session ordinaire qui commence le premier jour ouvrable d'octobre et prend fin le dernier jour ouvrable de juin.
@@ -227,34 +227,34 @@ Le nombre de jours de séance que chaque assemblée peut tenir au cours de la se
 Le Premier ministre, après consultation du président de l'assemblée concernée, ou la majorité des membres de chaque assemblée peut décider la tenue de jours supplémentaires de séance.
 Les jours et les horaires des séances sont déterminés par le règlement de chaque assemblée.
 
-#H3 Article 29 En savoir plus sur cet article...
+### Article 29 En savoir plus sur cet article...
 
 Le Parlement est réuni en session extraordinaire à la demande du Premier ministre ou de la majorité des membres composant l'Assemblée nationale, sur un ordre du jour déterminé.
 Lorsque la session extraordinaire est tenue à la demande des membres de l'Assemblée nationale, le décret de clôture intervient dès que le Parlement a épuisé l'ordre du jour pour lequel il a été convoqué et au plus tard douze jours à compter de sa réunion.
 Le Premier ministre peut seul demander une nouvelle session avant l'expiration du mois qui suit le décret de clôture.
 
-#H3 Article 30 En savoir plus sur cet article...
+### Article 30 En savoir plus sur cet article...
 
 Hors les cas dans lesquels le Parlement se réunit de plein droit, les sessions extraordinaires sont ouvertes et closes par décret du Président de la République.
 
-#H3 Article 31
+### Article 31
 
 Les membres du Gouvernement ont accès aux deux Assemblées. Ils sont entendus quand ils le demandent.
 Ils peuvent se faire assister par des commissaires du Gouvernement.
 
-#H3 Article 32
+### Article 32
 
 Le Président de l'Assemblée nationale est élu pour la durée de la législature. Le Président du Sénat est élu après chaque renouvellement partiel.
 
-#H3 Article 33
+### Article 33
 
 Les séances des deux Assemblées sont publiques. Le compte-rendu intégral des débats est publié au Journal officiel.
 Chaque Assemblée peut siéger en comité secret à la demande du Premier ministre ou d'un dixième de ses membres.
 
 
-#H2 Titre V : Des rapports entre le Parlement et le Gouvernement
+## Titre V : Des rapports entre le Parlement et le Gouvernement
 
-#H3 Article 34 En savoir plus sur cet article...
+### Article 34 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 11 
 
 La loi fixe les règles concernant :
@@ -286,7 +286,7 @@ Les assemblées peuvent voter des résolutions dans les conditions fixées par l
 
 Sont irrecevables et ne peuvent être inscrites à l'ordre du jour les propositions de résolution dont le Gouvernement estime que leur adoption ou leur rejet serait de nature à mettre en cause sa responsabilité ou qu'elles contiennent des injonctions à son égard.
 
-#H3 Article 35 En savoir plus sur cet article...
+### Article 35 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 13 
 
 La déclaration de guerre est autorisée par le Parlement.
@@ -296,28 +296,28 @@ Lorsque la durée de l'intervention excède quatre mois, le Gouvernement soumet 
 
 Si le Parlement n'est pas en session à l'expiration du délai de quatre mois, il se prononce à l'ouverture de la session suivante.
 
-#H3 Article 36
+### Article 36
 
 L'Etat de siège est décrété en Conseil des ministres.
 Sa prorogation au-delà de douze jours ne peut être autorisée que par le Parlement.
 
-#H3 Article 37 En savoir plus sur cet article...
+### Article 37 En savoir plus sur cet article...
 
 Les matières autres que celles qui sont du domaine de la loi ont un caractère réglementaire.
 Les textes de forme législative intervenus en ces matières peuvent être modifiés par décrets pris après avis du Conseil d'Etat. Ceux de ces textes qui interviendraient après l'entrée en vigueur de la présente Constitution ne pourront être modifiés par décret que si le Conseil constitutionnel a déclaré qu'ils ont un caractère réglementaire en vertu de l'alinéa précédent.
 
-#H3 Article 37-1 En savoir plus sur cet article...
+### Article 37-1 En savoir plus sur cet article...
 Créé par Loi constitutionnelle n°2003-276 du 28 mars 2003 - art. 3
 La loi et le règlement peuvent comporter, pour un objet et une durée limités, des dispositions à caractère expérimental.
 
-#H3 Article 38 En savoir plus sur cet article...
+### Article 38 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 14 
 
 Le Gouvernement peut, pour l'exécution de son programme, demander au Parlement l'autorisation de prendre par ordonnances, pendant un délai limité, des mesures qui sont normalement du domaine de la loi.
 Les ordonnances sont prises en Conseil des ministres après avis du Conseil d'Etat. Elles entrent en vigueur dès leur publication mais deviennent caduques si le projet de loi de ratification n'est pas déposé devant le Parlement avant la date fixée par la loi d'habilitation. Elles ne peuvent être ratifiées que de manière expresse.
 A l'expiration du délai mentionné au premier alinéa du présent article, les ordonnances ne peuvent plus être modifiées que par la loi dans les matières qui sont du domaine législatif.
 
-#H3 Article 39 En savoir plus sur cet article...
+### Article 39 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 15 
 
 L'initiative des lois appartient concurremment au Premier ministre et aux membres du Parlement.
@@ -328,17 +328,17 @@ Les projets de loi ne peuvent être inscrits à l'ordre du jour si la Conférenc
 
 Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, avant son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée, sauf si ce dernier s'y oppose.
 
-#H3 Article 40 En savoir plus sur cet article...
+### Article 40 En savoir plus sur cet article...
 
 Les propositions et amendements formulés par les membres du Parlement ne sont pas recevables lorsque leur adoption aurait pour conséquence soit une diminution des ressources publiques, soit la création ou l'aggravation d'une charge publique.
 
-#H3 Article 41 En savoir plus sur cet article...
+### Article 41 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 16 
 
 S'il apparaît au cours de la procédure législative qu'une proposition ou un amendement n'est pas du domaine de la loi ou est contraire à une délégation accordée en vertu de l'article 38, le Gouvernement ou le président de l'assemblée saisie peut opposer l'irrecevabilité.
 En cas de désaccord entre le Gouvernement et le Président de l'Assemblée intéressée, le Conseil constitutionnel, à la demande de l'un ou de l'autre, statue dans un délai de huit jours.
 
-#H3 Article 42 En savoir plus sur cet article...
+### Article 42 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 17 
 
 La discussion des projets et des propositions de loi porte, en séance, sur le texte adopté par la commission saisie en application de l'article 43 ou, à défaut, sur le texte dont l'assemblée a été saisie. 
@@ -349,14 +349,14 @@ La discussion en séance, en première lecture, d'un projet ou d'une proposition
 
 L'alinéa précédent ne s'applique pas si la procédure accélérée a été engagée dans les conditions prévues à l'article 45. Il ne s'applique pas non plus aux projets de loi de finances, aux projets de loi de financement de la sécurité sociale et aux projets relatifs aux états de crise.
 
-#H3 Article 43 En savoir plus sur cet article...
+### Article 43 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 18 
 
 Les projets et propositions de loi sont envoyés pour examen à l'une des commissions permanentes dont le nombre est limité à huit dans chaque assemblée. 
 
 À la demande du Gouvernement ou de l'assemblée qui en est saisie, les projets ou propositions de loi sont envoyés pour examen à une commission spécialement désignée à cet effet.
 
-#H3 Article 44 En savoir plus sur cet article...
+### Article 44 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 19 
 
 Les membres du Parlement et le Gouvernement ont le droit d'amendement. Ce droit s'exerce en séance ou en commission selon les conditions fixées par les règlements des assemblées, dans le cadre déterminé par une loi organique.
@@ -369,7 +369,7 @@ Lorsque, par suite d'un désaccord entre les deux Assemblées, un projet ou une 
 Le texte élaboré par la commission mixte peut être soumis par le Gouvernement pour approbation aux deux Assemblées. Aucun amendement n'est recevable sauf accord du Gouvernement.
 Si la commission mixte ne parvient pas à l'adoption d'un texte commun ou si ce texte n'est pas adopté dans les conditions prévues à l'alinéa précédent, le Gouvernement peut, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, demander à l'Assemblée nationale de statuer définitivement. En ce cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat.
 
-#H3 Article 46 En savoir plus sur cet article...
+### Article 46 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 21 
 
 Les lois auxquelles la Constitution confère le caractère de lois organiques sont votées et modifiées dans les conditions suivantes :
@@ -378,7 +378,7 @@ La procédure de l'article 45 est applicable. Toutefois, faute d'accord entre le
 Les lois organiques relatives au Sénat doivent être votées dans les mêmes termes par les deux assemblées.
 Les lois organiques ne peuvent être promulguées qu'après déclaration par le Conseil constitutionnel de leur conformité à la Constitution.
 
-#H3 Article 47 En savoir plus sur cet article...
+### Article 47 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 22 
 
 Le Parlement vote les projets de loi de finances dans les conditions prévues par une loi organique.
@@ -387,7 +387,7 @@ Si le Parlement ne s'est pas prononcé dans un délai de soixante-dix jours, les
 Si la loi de finances fixant les ressources et les charges d'un exercice n'a pas été déposée en temps utile pour être promulguée avant le début de cet exercice, le Gouvernement demande d'urgence au Parlement l'autorisation de percevoir les impôts et ouvre par décret les crédits se rapportant aux services votés.
 Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session.
 
-#H3 Article 47-1 En savoir plus sur cet article...
+### Article 47-1 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 22 
 
 Le Parlement vote les projets de loi de financement de la sécurité sociale dans les conditions prévues par une loi organique.
@@ -395,14 +395,14 @@ Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le d
 Si le Parlement ne s'est pas prononcé dans un délai de cinquante jours, les dispositions du projet peuvent être mises en oeuvre par ordonnance.
 Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session et, pour chaque assemblée, au cours des semaines où elle a décidé de ne pas tenir séance, conformément au deuxième alinéa de l'article 28.
 
-#H3 Article 47-2 En savoir plus sur cet article...
+### Article 47-2 En savoir plus sur cet article...
 Créé par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 22
 
 La Cour des comptes assiste le Parlement dans le contrôle de l'action du Gouvernement. Elle assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances et de l'application des lois de financement de la sécurité sociale ainsi que dans l'évaluation des politiques publiques. Par ses rapports publics, elle contribue à l'information des citoyens. 
 
 Les comptes des administrations publiques sont réguliers et sincères. Ils donnent une image fidèle du résultat de leur gestion, de leur patrimoine et de leur situation financière.
 
-#H3 Article 48 En savoir plus sur cet article...
+### Article 48 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 23 
 
 Sans préjudice de l'application des trois derniers alinéas de l'article 28, l'ordre du jour est fixé par chaque assemblée. 
@@ -417,7 +417,7 @@ Un jour de séance par mois est réservé à un ordre du jour arrêté par chaqu
 
 Une séance par semaine au moins, y compris pendant les sessions extraordinaires prévues à l'article 29, est réservée par priorité aux questions des membres du Parlement et aux réponses du Gouvernement.
 
-#H3 Article 49 En savoir plus sur cet article...
+### Article 49 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 24 
 
 Le Premier ministre, après délibération du Conseil des ministres, engage devant l'Assemblée nationale la responsabilité du Gouvernement sur son programme ou éventuellement sur une déclaration de politique générale.
@@ -425,26 +425,26 @@ L'Assemblée nationale met en cause la responsabilité du Gouvernement par le vo
 Le Premier ministre peut, après délibération du Conseil des ministres, engager la responsabilité du Gouvernement devant l'Assemblée nationale sur le vote d'un projet de loi de finances ou de financement de la sécurité sociale. Dans ce cas, ce projet est considéré comme adopté, sauf si une motion de censure, déposée dans les vingt-quatre heures qui suivent, est votée dans les conditions prévues à l'alinéa précédent. Le Premier ministre peut, en outre, recourir à cette procédure pour un autre projet ou une proposition de loi par session.
 Le Premier ministre a la faculté de demander au Sénat l'approbation d'une déclaration de politique générale.
 
-#H3 Article 50
+### Article 50
 
 Lorsque l'Assemblée nationale adopte une motion de censure ou lorsqu'elle désapprouve le programme ou une déclaration de politique générale du Gouvernement, le Premier ministre doit remettre au Président de la République la démission du Gouvernement.
 
-#H3 Article 50-1 En savoir plus sur cet article...
+### Article 50-1 En savoir plus sur cet article...
 Créé par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 25
 
 Devant l'une ou l'autre des assemblées, le Gouvernement peut, de sa propre initiative ou à la demande d'un groupe parlementaire au sens de l'article 51-1, faire, sur un sujet déterminé, une déclaration qui donne lieu à débat et peut, s'il le décide, faire l'objet d'un vote sans engager sa responsabilité.
 
-#H3 Article 51 En savoir plus sur cet article...
+### Article 51 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 6 
 
 La clôture des sessions ordinaires ou des sessions extraordinaires est de droit retardée pour permettre, le cas échéant, l'application de l'article 49.A cette même fin, des séances supplémentaires sont de droit.
 
-#H3 Article 51-1 En savoir plus sur cet article...
+### Article 51-1 En savoir plus sur cet article...
 Créé par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 26
 
 Le règlement de chaque assemblée détermine les droits des groupes parlementaires constitués en son sein. Il reconnaît des droits spécifiques aux groupes d'opposition de l'assemblée intéressée ainsi qu'aux groupes minoritaires.
 
-#H3 Article 51-2 En savoir plus sur cet article...
+### Article 51-2 En savoir plus sur cet article...
 Créé par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 26
 
 Pour l'exercice des missions de contrôle et d'évaluation définies au premier alinéa de l'article 24, des commissions d'enquête peuvent être créées au sein de chaque assemblée pour recueillir, dans les conditions prévues par la loi, des éléments d'information. 
@@ -453,42 +453,42 @@ La loi détermine leurs règles d'organisation et de fonctionnement. Leurs condi
 
 
 
-#H2 Titre VI : Des traités et accords internationaux
+## Titre VI : Des traités et accords internationaux
 
-#H3 Article 52 En savoir plus sur cet article...
+### Article 52 En savoir plus sur cet article...
 
 Le Président de la République négocie et ratifie les traités.
 Il est informé de toute négociation tendant à la conclusion d'un accord international non soumis à ratification.
 
-#H3 Article 53 En savoir plus sur cet article...
+### Article 53 En savoir plus sur cet article...
 
 Les traités de paix, les traités de commerce, les traités ou accords relatifs à l'organisation internationale, ceux qui engagent les finances de l'Etat, ceux qui modifient les dispositions de nature législative, ceux qui sont relatifs à l'état des personnes, ceux qui comportent cession, échange ou adjonction de territoire, ne peuvent être ratifiés ou approuvés qu'en vertu d'une loi.
 Ils ne prennent effet qu'après avoir été ratifiés ou approuvés.
 Nulle cession, nul échange, nulle adjonction de territoire n'est valable sans le consentement des populations intéressées.
 
-#H3 Article 53-1 En savoir plus sur cet article...
+### Article 53-1 En savoir plus sur cet article...
 Créé par Loi constitutionnelle n°93-1256 du 25 novembre ... - art. unique
 
 La République peut conclure avec les Etats européens qui sont liés par des engagements identiques aux siens en matière d'asile et de protection des Droits de l'homme et des libertés fondamentales, des accords déterminant leurs compétences respectives pour l'examen des demandes d'asile qui leur sont présentées.
 Toutefois, même si la demande n'entre pas dans leur compétence en vertu de ces accords, les autorités de la République ont toujours le droit de donner asile à tout étranger persécuté en raison de son action en faveur de la liberté ou qui sollicite la protection de la France pour un autre motif.
 
-#H3 Article 53-2 En savoir plus sur cet article...
+### Article 53-2 En savoir plus sur cet article...
 Créé par Loi constitutionnelle n°99-568 du 8 juillet 1999 - art. unique
 
 La République peut reconnaître la juridiction de la Cour pénale internationale dans les conditions prévues par le traité signé le 18 juillet 1998.
 
-#H3 Article 54 En savoir plus sur cet article...
+### Article 54 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n° 92-554 du 25 juin 1992 - art. 2
 
 Si le Conseil constitutionnel, saisi par le Président de la République, par le Premier ministre, par le président de l'une ou l'autre assemblée ou par soixante députés ou soixante sénateurs, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après la révision de la Constitution.
 
-#H3 Article 55
+### Article 55
 
 Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par l'autre partie.
 
 
 
-#H2 Titre VII : Le Conseil constitutionnel
+## Titre VII : Le Conseil constitutionnel
 
 Article 56 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 27 
@@ -497,25 +497,25 @@ Le Conseil constitutionnel comprend neuf membres, dont le mandat dure neuf ans e
 En sus des neuf membres prévus ci-dessus, font de droit partie à vie du Conseil constitutionnel les anciens Présidents de la République.
 Le Président est nommé par le Président de la République. Il a voix prépondérante en cas de partage.
 
-#H3 Article 57
+### Article 57
 
 Les fonctions de membre du Conseil constitutionnel sont incompatibles avec celles de ministre ou de membre du Parlement. Les autres incompatibilités sont fixées par une loi organique.
 
-#H3 Article 58
+### Article 58
 
 Le Conseil constitutionnel veille à la régularité de l'élection du Président de la République.
 Il examine les réclamations et proclame les résultats du scrutin.
 
-#H3 Article 59 En savoir plus sur cet article...
+### Article 59 En savoir plus sur cet article...
 
 Le Conseil constitutionnel statue, en cas de contestation, sur la régularité de l'élection des députés et des sénateurs.
 
-#H3 Article 60 En savoir plus sur cet article...
+### Article 60 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°2005-204 du 1 mars 2005 - art. 2 
 
 Le Conseil constitutionnel veille à la régularité des opérations de référendum prévues aux articles 11 et 89 et au titre XV. Il en proclame les résultats.
 
-#H3 Article 61 En savoir plus sur cet article...
+### Article 61 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 28 
 
 Les lois organiques, avant leur promulgation, les propositions de loi mentionnées à l'article 11 avant qu'elles ne soient soumises au référendum, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil constitutionnel, qui se prononce sur leur conformité à la Constitution.
@@ -523,7 +523,7 @@ Aux mêmes fins, les lois peuvent être déférées au Conseil constitutionnel, 
 Dans les cas prévus aux deux alinéas précédents, le Conseil constitutionnel doit statuer dans le délai d'un mois. Toutefois, à la demande du Gouvernement, s'il y a urgence, ce délai est ramené à huit jours.
 Dans ces mêmes cas, la saisine du Conseil constitutionnel suspend le délai de promulgation.
 
-#H3 Article 61-1 En savoir plus sur cet article...
+### Article 61-1 En savoir plus sur cet article...
 Créé par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 29
 
 Lorsque, à l'occasion d'une instance en cours devant une juridiction, il est soutenu qu'une disposition législative porte atteinte aux droits et libertés que la Constitution garantit, le Conseil constitutionnel peut être saisi de cette question sur renvoi du Conseil d'État ou de la Cour de cassation qui se prononce dans un délai déterminé. 
@@ -532,7 +532,7 @@ Une loi organique détermine les conditions d'application du présent article.
 NOTA : 
 La loi organique n° 2009-1523 du 10 décembre 2009 relative à l'application de l'article 61-1 de la Constitution a été publiée au Journal officiel du 11 décembre 2009.
 
-#H3 Article 62 En savoir plus sur cet article...
+### Article 62 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 30 
 
 Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61 ne peut être promulguée ni mise en application. 
@@ -540,22 +540,22 @@ Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61
 Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61-1 est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure fixée par cette décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d'être remis en cause.
 Les décisions du Conseil constitutionnel ne sont susceptibles d'aucun recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
 
-#H3 Article 63 En savoir plus sur cet article...
+### Article 63 En savoir plus sur cet article...
 
 Une loi organique détermine les règles d'organisation et de fonctionnement du Conseil constitutionnel, la procédure qui est suivie devant lui, et notamment les délais ouverts pour le saisir de contestations.
 
 
 
-#H2 Titre VIII : De l'autorité judiciaire
+## Titre VIII : De l'autorité judiciaire
 
-#H3 Article 64 En savoir plus sur cet article...
+### Article 64 En savoir plus sur cet article...
 
 Le Président de la République est garant de l'indépendance de l'autorité judiciaire.
 Il est assisté par le Conseil supérieur de la magistrature.
 Une loi organique porte statut des magistrats.
 Les magistrats du siège sont inamovibles.
 
-#H3 Article 65 En savoir plus sur cet article...
+### Article 65 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 31 
 
 Le Conseil supérieur de la magistrature comprend une formation compétente à l'égard des magistrats du siège et une formation compétente à l'égard des magistrats du parquet.
@@ -570,28 +570,28 @@ Sauf en matière disciplinaire, le ministre de la justice peut participer aux s�
 Le Conseil supérieur de la magistrature peut être saisi par un justiciable dans les conditions fixées par une loi organique.
 La loi organique détermine les conditions d'application du présent article.
 
-#H3 Article 66 En savoir plus sur cet article...
+### Article 66 En savoir plus sur cet article...
 
 Nul ne peut être arbitrairement détenu.
 L'autorité judiciaire, gardienne de la liberté individuelle, assure le respect de ce principe dans les conditions prévues par la loi.
 
-#H3 Article 66-1 En savoir plus sur cet article...
+### Article 66-1 En savoir plus sur cet article...
 Créé par Loi constitutionnelle n°2007-239 du 23 février ... - art. 1
 
 Nul ne peut être condamné à la peine de mort.
 
 
 
-#H2 Titre IX : La Haute Cour
+## Titre IX : La Haute Cour
 
-#H3 Article 67 En savoir plus sur cet article...
+### Article 67 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°2007-238 du 23 février ... - art. unique 
 
 Le Président de la République n'est pas responsable des actes accomplis en cette qualité, sous réserve des dispositions des articles 53-2 et 68.
 Il ne peut, durant son mandat et devant aucune juridiction ou autorité administrative française, être requis de témoigner non plus que faire l'objet d'une action, d'un acte d'information, d'instruction ou de poursuite. Tout délai de prescription ou de forclusion est suspendu.
 Les instances et procédures auxquelles il est ainsi fait obstacle peuvent être reprises ou engagées contre lui à l'expiration d'un délai d'un mois suivant la cessation des fonctions.
 
-#H3 Article 68 En savoir plus sur cet article...
+### Article 68 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°2007-238 du 23 février ... - art. unique 
 
 Le Président de la République ne peut être destitué qu'en cas de manquement à ses devoirs manifestement incompatible avec l'exercice de son mandat. La destitution est prononcée par le Parlement constitué en Haute Cour.
@@ -602,13 +602,13 @@ Une loi organique fixe les conditions d'application du présent article.
 
 
 
-#H2 Titre IX : La Haute Cour de Justice. (abrogé)
+## Titre IX : La Haute Cour de Justice. (abrogé)
 
 
 
-#H2 Titre X : De la responsabilité pénale des membres du Gouvernement
+## Titre X : De la responsabilité pénale des membres du Gouvernement
 
-#H3 Article 68-1 En savoir plus sur cet article...
+### Article 68-1 En savoir plus sur cet article...
 Créé par Loi n°93-952 du 27 juillet 1993 - art. 4 JORF 28 juillet 1993
 
 Les membres du Gouvernement sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis.
@@ -627,25 +627,25 @@ Les dispositions du présent titre sont applicables aux faits commis avant son e
 
 
 
-#H2 Titre X : Le Conseil économique et social. (abrogé)
+## Titre X : Le Conseil économique et social. (abrogé)
 
 
 
-#H2 Titre XI : Le Conseil économique, social et environnemental
+## Titre XI : Le Conseil économique, social et environnemental
 
-#H3 Article 69 En savoir plus sur cet article...
+### Article 69 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 33 
 
 Le Conseil économique, social et environnemental, saisi par le Gouvernement, donne son avis sur les projets de loi, d'ordonnance ou de décret ainsi que sur les propositions de loi qui lui sont soumis.
 Un membre du Conseil économique, social et environnemental peut être désigné par celui-ci pour exposer devant les assemblées parlementaires l'avis du Conseil sur les projets ou propositions qui lui ont été soumis.
 Le Conseil économique, social et environnemental peut être saisi par voie de pétition dans les conditions fixées par une loi organique. Après examen de la pétition, il fait connaître au Gouvernement et au Parlement les suites qu'il propose d'y donner.
 
-#H3 Article 70 En savoir plus sur cet article...
+### Article 70 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 34 
 
 Le Conseil économique, social et environnemental peut être consulté par le Gouvernement et le Parlement sur tout problème de caractère économique, social ou environnemental. Le Gouvernement peut également le consulter sur les projets de loi de programmation définissant les orientations pluriannuelles des finances publiques. Tout plan ou tout projet de loi de programmation à caractère économique, social ou environnemental lui est soumis pour avis.
 
-#H3 Article 71 En savoir plus sur cet article...
+### Article 71 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 35 
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 36 
 
@@ -653,9 +653,9 @@ La composition du Conseil économique, social et environnemental, dont le nombre
 
 
 
-#H2 Titre XI bis : Le Défenseur des droits
+## Titre XI bis : Le Défenseur des droits
 
-#H3 Article 71-1 En savoir plus sur cet article...
+### Article 71-1 En savoir plus sur cet article...
 Créé par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 41
 
 Le Défenseur des droits veille au respect des droits et libertés par les administrations de l'État, les collectivités territoriales, les établissements publics, ainsi que par tout organisme investi d'une mission de service public, ou à l'égard duquel la loi organique lui attribue des compétences. 
@@ -670,9 +670,9 @@ Le Défenseur des droits rend compte de son activité au Président de la Répub
 
 
 
-#H2 Titre XII : Des collectivités territoriales
+## Titre XII : Des collectivités territoriales
 
-#H3 Article 72 En savoir plus sur cet article...
+### Article 72 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°2003-276 du 28 mars 2003 - art. 5 
 
 Les collectivités territoriales de la République sont les communes, les départements, les régions, les collectivités à statut particulier et les collectivités d'outre-mer régies par l'article 74. Toute autre collectivité territoriale est créée par la loi, le cas échéant en lieu et place d'une ou de plusieurs collectivités mentionnées au présent alinéa.
@@ -682,14 +682,14 @@ Dans les conditions prévues par la loi organique, et sauf lorsque sont en cause
 Aucune collectivité territoriale ne peut exercer une tutelle sur une autre. Cependant, lorsque l'exercice d'une compétence nécessite le concours de plusieurs collectivités territoriales, la loi peut autoriser l'une d'entre elles ou un de leurs groupements à organiser les modalités de leur action commune.
 Dans les collectivités territoriales de la République, le représentant de l'Etat, représentant de chacun des membres du Gouvernement, a la charge des intérêts nationaux, du contrôle administratif et du respect des lois.
 
-#H3 Article 72-1 En savoir plus sur cet article...
+### Article 72-1 En savoir plus sur cet article...
 Créé par Loi constitutionnelle n°2003-276 du 28 mars 2003 - art. 6
 
 La loi fixe les conditions dans lesquelles les électeurs de chaque collectivité territoriale peuvent, par l'exercice du droit de pétition, demander l'inscription à l'ordre du jour de l'assemblée délibérante de cette collectivité d'une question relevant de sa compétence.
 Dans les conditions prévues par la loi organique, les projets de délibération ou d'acte relevant de la compétence d'une collectivité territoriale peuvent, à son initiative, être soumis, par la voie du référendum, à la décision des électeurs de cette collectivité.
 Lorsqu'il est envisagé de créer une collectivité territoriale dotée d'un statut particulier ou de modifier son organisation, il peut être décidé par la loi de consulter les électeurs inscrits dans les collectivités intéressées. La modification des limites des collectivités territoriales peut également donner lieu à la consultation des électeurs dans les conditions prévues par la loi.
 
-#H3 Article 72-2 En savoir plus sur cet article...
+### Article 72-2 En savoir plus sur cet article...
 Créé par Loi constitutionnelle n°2003-276 du 28 mars 2003 - art. 7
 
 Les collectivités territoriales bénéficient de ressources dont elles peuvent disposer librement dans les conditions fixées par la loi.
@@ -698,7 +698,7 @@ Les recettes fiscales et les autres ressources propres des collectivités territ
 Tout transfert de compétences entre l'Etat et les collectivités territoriales s'accompagne de l'attribution de ressources équivalentes à celles qui étaient consacrées à leur exercice. Toute création ou extension de compétences ayant pour conséquence d'augmenter les dépenses des collectivités territoriales est accompagnée de ressources déterminées par la loi.
 La loi prévoit des dispositifs de péréquation destinés à favoriser l'égalité entre les collectivités territoriales.
 
-#H3 Article 72-3 En savoir plus sur cet article...
+### Article 72-3 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 37 
 
 La République reconnaît, au sein du peuple français, les populations d'outre-mer, dans un idéal commun de liberté, d'égalité et de fraternité.
@@ -706,13 +706,13 @@ La Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte, Saint-Barthélemy
 Le statut de la Nouvelle-Calédonie est régi par le titre XIII.
 La loi détermine le régime législatif et l'organisation particulière des Terres australes et antarctiques françaises et de Clipperton.
 
-#H3 Article 72-4 En savoir plus sur cet article...
+### Article 72-4 En savoir plus sur cet article...
 Créé par Loi constitutionnelle n°2003-276 du 28 mars 2003 - art. 8
 
 Aucun changement, pour tout ou partie de l'une des collectivités mentionnées au deuxième alinéa de l'article 72-3, de l'un vers l'autre des régimes prévus par les articles 73 et 74, ne peut intervenir sans que le consentement des électeurs de la collectivité ou de la partie de collectivité intéressée ait été préalablement recueilli dans les conditions prévues à l'alinéa suivant. Ce changement de régime est décidé par une loi organique.
 Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux assemblées, publiées au Journal officiel, peut décider de consulter les électeurs d'une collectivité territoriale située outre-mer sur une question relative à son organisation, à ses compétences ou à son régime législatif. Lorsque la consultation porte sur un changement prévu à l'alinéa précédent et est organisée sur proposition du Gouvernement, celui-ci fait, devant chaque assemblée, une déclaration qui est suivie d'un débat.
 
-#H3 Article 73 En savoir plus sur cet article...
+### Article 73 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 38 
 
 Dans les départements et les régions d'outre-mer, les lois et règlements sont applicables de plein droit. Ils peuvent faire l'objet d'adaptations tenant aux caractéristiques et contraintes particulières de ces collectivités.
@@ -723,7 +723,7 @@ La disposition prévue aux deux précédents alinéas n'est pas applicable au d�
 Les habilitations prévues aux deuxième et troisième alinéas sont décidées, à la demande de la collectivité concernée, dans les conditions et sous les réserves prévues par une loi organique. Elles ne peuvent intervenir lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti.
 La création par la loi d'une collectivité se substituant à un département et une région d'outre-mer ou l'institution d'une assemblée délibérante unique pour ces deux collectivités ne peut intervenir sans qu'ait été recueilli, selon les formes prévues au second alinéa de l'article 72-4, le consentement des électeurs inscrits dans le ressort de ces collectivités.
 
-#H3 Article 74 En savoir plus sur cet article...
+### Article 74 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°2003-276 du 28 mars 2003 - art. 10 
 
 Les collectivités d'outre-mer régies par le présent article ont un statut qui tient compte des intérêts propres de chacune d'elles au sein de la République.
@@ -739,31 +739,31 @@ La loi organique peut également déterminer, pour celles de ces collectivités 
 -la collectivité peut participer, sous le contrôle de l'Etat, à l'exercice des compétences qu'il conserve, dans le respect des garanties accordées sur l'ensemble du territoire national pour l'exercice des libertés publiques.
 Les autres modalités de l'organisation particulière des collectivités relevant du présent article sont définies et modifiées par la loi après consultation de leur assemblée délibérante.
 
-#H3 Article 74-1 En savoir plus sur cet article...
+### Article 74-1 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 39 
 
 Dans les collectivités d'outre-mer visées à l'article 74 et en Nouvelle-Calédonie, le Gouvernement peut, par ordonnances, dans les matières qui demeurent de la compétence de l'État, étendre, avec les adaptations nécessaires, les dispositions de nature législative en vigueur en métropole ou adapter les dispositions de nature législative en vigueur à l'organisation particulière de la collectivité concernée, sous réserve que la loi n'ait pas expressément exclu, pour les dispositions en cause, le recours à cette procédure.
 Les ordonnances sont prises en conseil des ministres après avis des assemblées délibérantes intéressées et du Conseil d'Etat. Elles entrent en vigueur dès leur publication. Elles deviennent caduques en l'absence de ratification par le Parlement dans le délai de dix-huit mois suivant cette publication.
 
-#H3 Article 75 En savoir plus sur cet article...
+### Article 75 En savoir plus sur cet article...
 Modifié par Loi n°93-952 du 27 juillet 1993 - art. 3 JORF 28 juillet 1993
 
 Les citoyens de la République qui n'ont pas le statut civil de droit commun, seul visé à l'article 34, conservent leur statut personnel tant qu'ils n'y ont pas renoncé.
 
-#H3 Article 75-1 En savoir plus sur cet article...
+### Article 75-1 En savoir plus sur cet article...
 Créé par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 40
 
 Les langues régionales appartiennent au patrimoine de la France.
 
 
 
-#H2 Titre XI : Des collectivités territoriales. (abrogé)
+## Titre XI : Des collectivités territoriales. (abrogé)
 
 
 
-#H2 Titre XIII : Dispositions transitoires relatives à la Nouvelle-Calédonie
+## Titre XIII : Dispositions transitoires relatives à la Nouvelle-Calédonie
 
-#H3 Article 76 En savoir plus sur cet article...
+### Article 76 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°98-610 du 20 juillet 1998 - art. 1 
 Modifié par Loi constitutionnelle n°98-610 du 20 juillet 1998 - art. 2 
 
@@ -771,7 +771,7 @@ Les populations de la Nouvelle-Calédonie sont appelées à se prononcer avant l
 Sont admises à participer au scrutin les personnes remplissant les conditions fixées à l'article 2 de la loi n° 88-1028 du 9 novembre 1988.
 Les mesures nécessaires à l'organisation du scrutin sont prises par décret en Conseil d'Etat délibéré en conseil des ministres.
 
-#H3 Article 77 En savoir plus sur cet article...
+### Article 77 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°2007-237 du 23 février ... - art. unique 
 
 Après approbation de l'accord lors de la consultation prévue à l'article 76, la loi organique, prise après avis de l'assemblée délibérante de la Nouvelle-Calédonie, détermine, pour assurer l'évolution de la Nouvelle-Calédonie dans le respect des orientations définies par cet accord et selon les modalités nécessaires à sa mise en oeuvre :
@@ -784,81 +784,81 @@ Pour la définition du corps électoral appelé à élire les membres des assemb
 
 
 
-#H2 Titre XIII : De la Communauté. (abrogé)
+## Titre XIII : De la Communauté. (abrogé)
 
-#H3 Article 78 (abrogé) En savoir plus sur cet article...
+### Article 78 (abrogé) En savoir plus sur cet article...
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
-#H3 Article 79 (abrogé) En savoir plus sur cet article...
+### Article 79 (abrogé) En savoir plus sur cet article...
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
-#H3 Article 80 (abrogé) En savoir plus sur cet article...
+### Article 80 (abrogé) En savoir plus sur cet article...
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
-#H3 Article 81 (abrogé) En savoir plus sur cet article...
+### Article 81 (abrogé) En savoir plus sur cet article...
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
-#H3 Article 82 (abrogé) En savoir plus sur cet article...
+### Article 82 (abrogé) En savoir plus sur cet article...
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
-#H3 Article 83 (abrogé) En savoir plus sur cet article...
+### Article 83 (abrogé) En savoir plus sur cet article...
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
-#H3 Article 84 (abrogé) En savoir plus sur cet article...
+### Article 84 (abrogé) En savoir plus sur cet article...
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
-#H3 Article 85 (abrogé) En savoir plus sur cet article...
+### Article 85 (abrogé) En savoir plus sur cet article...
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
-#H3 Article 86 (abrogé) En savoir plus sur cet article...
+### Article 86 (abrogé) En savoir plus sur cet article...
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
 
 
-#H2 Titre XIII : Des accords d'association. (abrogé)
+## Titre XIII : Des accords d'association. (abrogé)
 
 
 
-#H2 Titre XIV : De la francophonie et des accords d'association
+## Titre XIV : De la francophonie et des accords d'association
 
-#H3 Article 87 En savoir plus sur cet article...
+### Article 87 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 42 
 
 La République participe au développement de la solidarité et de la coopération entre les États et les peuples ayant le français en partage.
 
-#H3 Article 88 En savoir plus sur cet article...
+### Article 88 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 13 
 
 La République peut conclure des accords avec des Etats qui désirent s'associer à elle pour développer leurs civilisations.
 
 
 
-#H2 Titre XIV : Des Communautés européennes et de l'Union européenne. (abrogé)
+## Titre XIV : Des Communautés européennes et de l'Union européenne. (abrogé)
 
 
 
-#H2 Titre XV : De l'Union européenne
+## Titre XV : De l'Union européenne
 
-#H3 Article 88-1 En savoir plus sur cet article...
+### Article 88-1 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°2008-103 du 4 février 2008 - art. 2
 
 La République participe à l'Union européenne constituée d'Etats qui ont choisi librement d'exercer en commun certaines de leurs compétences en vertu du traité sur l'Union européenne et du traité sur le fonctionnement de l'Union européenne, tels qu'ils résultent du traité signé à Lisbonne le 13 décembre 2007.
 NOTA : 
 Loi constitutionnelle n° 2008-103 du 4 février 2008, art. 2 : le présent article entrera en vigueur à compter de l'entrée en vigueur du traité de Lisbonne modifiant le traité sur l'Union européenne et le traité instituant la Communauté européenne, signé le 13 décembre 2007. Le traité de Lisbonne est entré en vigueur le 1er décembre 2009.
 
-#H3 Article 88-2 En savoir plus sur cet article...
+### Article 88-2 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-103 du 4 février 2008 - art. 2 
 
 La loi fixe les règles relatives au mandat d'arrêt européen en application des actes pris par les institutions de l'Union européenne. 
 NOTA : 
 Loi constitutionnelle n° 2008-103 du 4 février 2008, art. 2 : le présent article entrera en vigueur à compter de l'entrée en vigueur du traité de Lisbonne modifiant le traité sur l'Union européenne et le traité instituant la Communauté européenne, signé le 13 décembre 2007. Le traité de Lisbonne est entré en vigueur le 1er décembre 2009.
 
-#H3 Article 88-3 En savoir plus sur cet article...
+### Article 88-3 En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°93-952 du 27 juillet 1993 - art. 3 JORF 28 juillet 1993
 
 Sous réserve de réciprocité et selon les modalités prévues par le Traité sur l'Union européenne signé le 7 février 1992, le droit de vote et d'éligibilité aux élections municipales peut être accordé aux seuls citoyens de l'Union résidant en France. Ces citoyens ne peuvent exercer les fonctions de maire ou d'adjoint ni participer à la désignation des électeurs sénatoriaux et à l'élection des sénateurs. Une loi organique votée dans les mêmes termes par les deux assemblées détermine les conditions d'application du présent article.
 
-#H3 Article 88-4 En savoir plus sur cet article...
+### Article 88-4 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-103 du 4 février 2008 - art. 2 
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 43
 
@@ -868,7 +868,7 @@ Au sein de chaque assemblée parlementaire est instituée une commission chargé
 NOTA : 
 Loi constitutionnelle n° 2008-103 du 4 février 2008, art. 2 : le présent article entrera en vigueur à compter de l'entrée en vigueur du traité de Lisbonne modifiant le traité sur l'Union européenne et le traité instituant la Communauté européenne, signé le 13 décembre 2007. Le traité de Lisbonne est entré en vigueur le 1er décembre 2009.
 
-#H3 Article 88-5 En savoir plus sur cet article...
+### Article 88-5 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 47-I 2° (V)
 
 Tout projet de loi autorisant la ratification d'un traité relatif à l'adhésion d'un État à l'Union européenne est soumis au référendum par le Président de la République. 
@@ -878,7 +878,7 @@ NOTA : 
 Loi constitutionnelle n° 2008-103 du 4 février 2008, art. 2 : le présent article entrera en vigueur à compter de l'entrée en vigueur du traité de Lisbonne modifiant le traité sur l'Union européenne et le traité instituant la Communauté européenne, signé le 13 décembre 2007. Le traité de Lisbonne est entré en vigueur le 1er décembre 2009.
 Loi constitutionnelle n° 2008-724 du 23 juillet 2008 article 47 III : L'article 88-5 de la Constitution, dans sa rédaction résultant tant de l'article 44 de la présente loi constitutionnelle que du 2° du I du présent article, n'est pas applicable aux adhésions faisant suite à une conférence intergouvernementale dont la convocation a été décidée par le Conseil européen avant le 1er juillet 2004.
 
-#H3 Article 88-6 En savoir plus sur cet article...
+### Article 88-6 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 47 (V) 
 
 L'Assemblée nationale ou le Sénat peuvent émettre un avis motivé sur la conformité d'un projet d'acte législatif européen au principe de subsidiarité.L'avis est adressé par le président de l'assemblée concernée aux présidents du Parlement européen, du Conseil et de la Commission européenne. Le Gouvernement en est informé.
@@ -897,13 +897,13 @@ Loi constitutionnelle n° 2008-103 du 4 février 2008, art. 2 : le présent arti
 
 
 
-#H2 Titre XV : De la revision. (abrogé)
+## Titre XV : De la revision. (abrogé)
 
 
 
-#H2 Titre XVI : De la révision
+## Titre XVI : De la révision
 
-#H3 Article 89 En savoir plus sur cet article...
+### Article 89 En savoir plus sur cet article...
 Modifié par LOI constitutionnelle n°2008-724 du 23 juillet... - art. 45 
 
 L'initiative de la révision de la Constitution appartient concurremment au Président de la République sur proposition du Premier ministre et aux membres du Parlement.
@@ -914,31 +914,31 @@ La forme républicaine du Gouvernement ne peut faire l'objet d'une révision.
 
 
 
-#H2 Titre XIV : De la revision. (abrogé)
+## Titre XIV : De la revision. (abrogé)
 
 
 
-#H2 Titre XVII : Dispositions transitoires. (abrogé)
+## Titre XVII : Dispositions transitoires. (abrogé)
 
-#H3 Article 90 (abrogé) En savoir plus sur cet article...
+### Article 90 (abrogé) En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°93-952 du 27 juillet 1993 - art. 3 JORF 28 juillet 1993
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
-#H3 Article 91 (abrogé) En savoir plus sur cet article...
+### Article 91 (abrogé) En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°93-952 du 27 juillet 1993 - art. 3 JORF 28 juillet 1993
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
-#H3 Article 92 (abrogé) En savoir plus sur cet article...
+### Article 92 (abrogé) En savoir plus sur cet article...
 Modifié par Loi constitutionnelle n°93-952 du 27 juillet 1993 - art. 3 JORF 28 juillet 1993
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
-#H3 Article 93 (abrogé) En savoir plus sur cet article...
+### Article 93 (abrogé) En savoir plus sur cet article...
 Créé par Loi constitutionnelle n°93-952 du 27 juillet 1993 - art. 3 JORF 28 juillet 1993
 Abrogé par Loi constitutionnelle n°95-880 du 4 août 1995 - art. 14
 
 
 
-#H2 Titre XVI : Dispositions transitoires. (abrogé)
+## Titre XVI : Dispositions transitoires. (abrogé)
 
 Le Président de la République : RENE COTY
 Le Président du Conseil des ministres, CHARLES DE GAULLE
